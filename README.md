@@ -42,3 +42,31 @@ MIT License – see the LICENSE file.
 ## Support
 
 If this project saved you time, optional support is welcome: https://paypal.me/Damonwill
+
+<!-- ORION_MONETIZATION_PILOT_START -->
+
+## C++ Header Guard Audit Pilot
+
+For a limited 7-day pilot, ScobieWorks offers a **C++ Header Guard Audit for
+$149 USD**. This price is an experiment hypothesis, not market evidence.
+
+### Proposed paid scope
+
+- One public C/C++ repository and one bounded include-guard analysis pass
+- Review of missing, inconsistent, or problematic header guards
+- Prioritized findings and suggested corrections/refactoring
+- Optional generated patch recommendations
+- A concise written report, with a maximum of two operator hours
+
+The free cpp-guard-analyzer tool remains fully available; no capability is removed.
+There is no promise of automated source modification of your repository.
+No private repository access or credentials are requested. No payment automation.
+
+Interested in the paid pilot? Open a GitHub issue in this repository titled exactly:
+
+**C++ Header Guard Audit Pilot**
+
+An issue is only a possible lead, not a purchase or evidence of willingness to pay.
+Do not include credentials, secrets, or private source code.
+
+<!-- ORION_MONETIZATION_PILOT_END -->
